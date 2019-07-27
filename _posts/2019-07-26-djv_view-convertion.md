@@ -90,9 +90,10 @@ system($djvConvertPath+" "+$playblastFile+" "+$OPPath+"/../"+$getSN+".mov"+" -de
 system($OPPath+"/../"+$getSN+".mov")
 ```
 
-本文中使用的djv_view版本为1.3.0
-系统为win10
-Links:
+本文中使用的djv_view版本为1.3.0  
+系统为win10  
 
- [djv_view website](http://djv.sourceforge.net)
+Links:  
+
+ [djv_view website](http://djv.sourceforge.net)  
  [djv_view github](https://github.com/darbyjohnston/DJV)
