@@ -19,7 +19,7 @@ djv_view is a cross platform open source tool for view image sequences. After I�
 
 It's a executable file called "djv_convert" can be found in SetupPath->DJV->bin
 
-![](/assets/images/post-images/djv_convert.jpg.jpg)
+![](https://jjstranger.github.io/assets/images/post-images/djv_convert.jpg.jpg)
 
 在cmd里进入bin目录敲命令
 ```
