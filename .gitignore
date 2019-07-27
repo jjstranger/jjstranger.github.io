@@ -1,0 +1,17 @@
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+/vendor
+_post/2013*
+_post/2014*
+_post/2015*
+_post/2016*
+_post/2017*
+
