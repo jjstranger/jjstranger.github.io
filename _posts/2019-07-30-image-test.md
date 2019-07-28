@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Image Test'
-description: ![](https://jjstranger.github.io/assets/images/post-images/ten-years.jpg)
+image: /assets/images/post-images/ten-years.jpg
 date: 2019-07-30 23:23:17
 tags: 
 - Life
