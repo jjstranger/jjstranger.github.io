@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'djv_view转图片或视频'
-description: 利用djv_view转换图像和视频。  
-Use djv_view to convet between images and videos.
+description: 利用djv_view转换图像和视频。  Use djv_view to convet between images and videos.
 date: 2019-07-26 23:29:33
 tags: 
 - mel
@@ -10,7 +9,8 @@ tags:
 - tool
 - tech
 published: true
-photo: /assets/images/post-images/djv_view-convertion.jpg
+photos:
+- /assets/images/post-images/djv_view-convertion.jpg
 ---
 djv_view是一个跨平台开源的图像序列浏览器。经过一段时间的使用，发现他自带了命令行工具可以实现图像及视频相互转换。
 
