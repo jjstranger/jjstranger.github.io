@@ -5,7 +5,7 @@ date: 2014-02-16
 categories: opinion
 tags: [resources, jekyll]
 image: https://www.mathjax.org/badge/mj-logo.svg
-published: true
+published: false
 
 ---
 
