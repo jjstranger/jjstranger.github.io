@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'djv_view转图片或视频'
-description: Use djv_view to convet between images and videos.
+description: 利用djv_view转换图像和视频。  
+Use djv_view to convet between images and videos.
 date: 2019-07-26 23:29:33
 tags: 
 - mel
@@ -9,11 +10,12 @@ tags:
 - tool
 - tech
 published: true
-feature: /assets/images/post-images/djv_view-convertion.jpg
+photo: /assets/images/post-images/djv_view-convertion.jpg
 ---
 djv_view是一个跨平台开源的图像序列浏览器。经过一段时间的使用，发现他自带了命令行工具可以实现图像及视频相互转换。
 
 djv_view is a cross platform open source tool for view image sequences. After I’ve use it for a while, I found it contains a command line tool for convent images or videos.
+<!--more-->
 
 进入安装目录-DJV-bin 下面找到一个名为djv_convert 的执行文件
 
